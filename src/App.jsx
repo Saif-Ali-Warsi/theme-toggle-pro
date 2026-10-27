@@ -21,6 +21,7 @@ function App() {
         }}
       >
         <h2>Dark Mode and Lite Mode</h2>
+        <hr />
 
         <button onClick={handleThemeToggle}>Enable Dark Mode</button>
       </div>

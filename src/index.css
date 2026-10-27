@@ -2,3 +2,10 @@ body {
   color: #fff;
   background-color: black;
 }
+
+
+button:hover {
+  cursor: pointer;
+  position: relative;
+  right: -99vw;
+}
